@@ -1,0 +1,170 @@
+{
+  "version": 1,
+  "fonts": [
+    {
+      "family": "Kanit",
+      "label": "คณิต",
+      "desc": "หนา ชัด ยอดนิยม",
+      "category": "หัวข้อ",
+      "thai": true,
+      "weights": [
+        400,
+        500,
+        600,
+        700,
+        800,
+        900
+      ],
+      "files": [
+        {
+          "weight": 400,
+          "file": "/fonts/Kanit-Regular.ttf"
+        },
+        {
+          "weight": 500,
+          "file": "/fonts/Kanit-Medium.ttf"
+        },
+        {
+          "weight": 600,
+          "file": "/fonts/Kanit-SemiBold.ttf"
+        },
+        {
+          "weight": 700,
+          "file": "/fonts/Kanit-Bold.ttf"
+        },
+        {
+          "weight": 800,
+          "file": "/fonts/Kanit-ExtraBold.ttf"
+        },
+        {
+          "weight": 900,
+          "file": "/fonts/Kanit-Black.ttf"
+        }
+      ],
+      "license": "/fonts/licenses/Kanit-OFL.txt"
+    },
+    {
+      "family": "Prompt",
+      "label": "พร้อมท์",
+      "desc": "ทันสมัย หนาได้สุด",
+      "category": "หัวข้อ",
+      "thai": true,
+      "weights": [
+        400,
+        700,
+        900
+      ],
+      "files": [
+        {
+          "weight": 400,
+          "file": "/fonts/Prompt-Regular.ttf"
+        },
+        {
+          "weight": 700,
+          "file": "/fonts/Prompt-Bold.ttf"
+        },
+        {
+          "weight": 900,
+          "file": "/fonts/Prompt-Black.ttf"
+        }
+      ],
+      "license": "/fonts/licenses/Prompt-OFL.txt"
+    },
+    {
+      "family": "Mitr",
+      "label": "มิตร",
+      "desc": "กลมมน เป็นมิตร",
+      "category": "หัวข้อ",
+      "thai": true,
+      "weights": [
+        400,
+        700
+      ],
+      "files": [
+        {
+          "weight": 400,
+          "file": "/fonts/Mitr-Regular.ttf"
+        },
+        {
+          "weight": 700,
+          "file": "/fonts/Mitr-Bold.ttf"
+        }
+      ],
+      "license": "/fonts/licenses/Mitr-OFL.txt"
+    },
+    {
+      "family": "Anuphan",
+      "label": "อนุพันธ์",
+      "desc": "โมเดิร์น อ่านง่าย",
+      "category": "อ่านง่าย",
+      "thai": true,
+      "weights": [
+        400,
+        700
+      ],
+      "files": [
+        {
+          "weight": "100 700",
+          "file": "/fonts/Anuphan-VF.ttf"
+        }
+      ],
+      "license": "/fonts/licenses/Anuphan-OFL.txt"
+    },
+    {
+      "family": "IBM Plex Sans Thai",
+      "label": "ไอบีเอ็ม เพล็กซ์",
+      "desc": "เรียบ คมชัด",
+      "category": "อ่านง่าย",
+      "thai": true,
+      "weights": [
+        400,
+        700
+      ],
+      "files": [
+        {
+          "weight": 400,
+          "file": "/fonts/IBMPlexSansThai-Regular.ttf"
+        },
+        {
+          "weight": 700,
+          "file": "/fonts/IBMPlexSansThai-Bold.ttf"
+        }
+      ],
+      "license": "/fonts/licenses/IBMPlexSansThai-OFL.txt"
+    },
+    {
+      "family": "Itim",
+      "label": "อิ่ม",
+      "desc": "ลายมือ น่ารัก",
+      "category": "ลายมือ",
+      "thai": true,
+      "weights": [
+        400
+      ],
+      "files": [
+        {
+          "weight": 400,
+          "file": "/fonts/Itim-Regular.ttf"
+        }
+      ],
+      "license": "/fonts/licenses/Itim-OFL.txt"
+    },
+    {
+      "family": "Chonburi",
+      "label": "ชลบุรี",
+      "desc": "หัวโต วินเทจ",
+      "category": "ตกแต่ง",
+      "thai": true,
+      "weights": [
+        400
+      ],
+      "files": [
+        {
+          "weight": 400,
+          "file": "/fonts/Chonburi-Regular.ttf"
+        }
+      ],
+      "license": "/fonts/licenses/Chonburi-OFL.txt"
+    }
+  ]
+}

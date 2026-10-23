@@ -1,0 +1,933 @@
+{
+  "version": 1,
+  "stickers": [
+    {
+      "id": "laugh_tears",
+      "name": "ขำน้ำตาไหล",
+      "file": "/stickers/laugh_tears.png",
+      "category": "อารมณ์",
+      "emoji": "😂",
+      "tags": [
+        "ขำ",
+        "ฮา",
+        "555"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f602.png"
+    },
+    {
+      "id": "rofl",
+      "name": "ขำกลิ้ง",
+      "file": "/stickers/rofl.png",
+      "category": "อารมณ์",
+      "emoji": "🤣",
+      "tags": [
+        "ขำ",
+        "ฮา",
+        "555"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f923.png"
+    },
+    {
+      "id": "scream",
+      "name": "กรี๊ด ตกใจ",
+      "file": "/stickers/scream.png",
+      "category": "อารมณ์",
+      "emoji": "😱",
+      "tags": [
+        "ตกใจ",
+        "ช็อก"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f631.png"
+    },
+    {
+      "id": "flushed",
+      "name": "หน้าแดง อึ้ง",
+      "file": "/stickers/flushed.png",
+      "category": "อารมณ์",
+      "emoji": "😳",
+      "tags": [
+        "อึ้ง",
+        "เขิน"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f633.png"
+    },
+    {
+      "id": "mind_blown",
+      "name": "สมองระเบิด",
+      "file": "/stickers/mind_blown.png",
+      "category": "อารมณ์",
+      "emoji": "🤯",
+      "tags": [
+        "ว้าว",
+        "ช็อก"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f92f.png"
+    },
+    {
+      "id": "sob",
+      "name": "ร้องไห้หนัก",
+      "file": "/stickers/sob.png",
+      "category": "อารมณ์",
+      "emoji": "😭",
+      "tags": [
+        "เศร้า",
+        "ซึ้ง"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f62d.png"
+    },
+    {
+      "id": "heart_eyes",
+      "name": "ตาหัวใจ",
+      "file": "/stickers/heart_eyes.png",
+      "category": "อารมณ์",
+      "emoji": "😍",
+      "tags": [
+        "รัก",
+        "ชอบ",
+        "สวย"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f60d.png"
+    },
+    {
+      "id": "smiling_hearts",
+      "name": "ปลื้ม",
+      "file": "/stickers/smiling_hearts.png",
+      "category": "อารมณ์",
+      "emoji": "🥰",
+      "tags": [
+        "รัก",
+        "น่ารัก"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f970.png"
+    },
+    {
+      "id": "cool",
+      "name": "เท่",
+      "file": "/stickers/cool.png",
+      "category": "อารมณ์",
+      "emoji": "😎",
+      "tags": [
+        "เท่",
+        "ชิล"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f60e.png"
+    },
+    {
+      "id": "thinking",
+      "name": "คิดหนัก",
+      "file": "/stickers/thinking.png",
+      "category": "อารมณ์",
+      "emoji": "🤔",
+      "tags": [
+        "สงสัย",
+        "คิด"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f914.png"
+    },
+    {
+      "id": "eye_roll",
+      "name": "กลอกตา",
+      "file": "/stickers/eye_roll.png",
+      "category": "อารมณ์",
+      "emoji": "🙄",
+      "tags": [
+        "เบื่อ",
+        "เหนื่อยใจ"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f644.png"
+    },
+    {
+      "id": "smirk",
+      "name": "ยิ้มมุมปาก",
+      "file": "/stickers/smirk.png",
+      "category": "อารมณ์",
+      "emoji": "😏",
+      "tags": [
+        "แซว",
+        "รู้ทัน"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f60f.png"
+    },
+    {
+      "id": "sweat_smile",
+      "name": "เหงื่อตก",
+      "file": "/stickers/sweat_smile.png",
+      "category": "อารมณ์",
+      "emoji": "😅",
+      "tags": [
+        "แป้ก",
+        "เขิน"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f605.png"
+    },
+    {
+      "id": "grin_squint",
+      "name": "ฮาลั่น",
+      "file": "/stickers/grin_squint.png",
+      "category": "อารมณ์",
+      "emoji": "😆",
+      "tags": [
+        "ขำ",
+        "ฮา"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f606.png"
+    },
+    {
+      "id": "pleading",
+      "name": "ตาอ้อน",
+      "file": "/stickers/pleading.png",
+      "category": "อารมณ์",
+      "emoji": "🥺",
+      "tags": [
+        "อ้อน",
+        "น่ารัก"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f97a.png"
+    },
+    {
+      "id": "huff",
+      "name": "ฮึ่ม!",
+      "file": "/stickers/huff.png",
+      "category": "อารมณ์",
+      "emoji": "😤",
+      "tags": [
+        "หงุดหงิด",
+        "สู้"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f624.png"
+    },
+    {
+      "id": "angry",
+      "name": "โกรธ",
+      "file": "/stickers/angry.png",
+      "category": "อารมณ์",
+      "emoji": "😡",
+      "tags": [
+        "โกรธ"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f621.png"
+    },
+    {
+      "id": "star_struck",
+      "name": "ตาเป็นดาว",
+      "file": "/stickers/star_struck.png",
+      "category": "อารมณ์",
+      "emoji": "🤩",
+      "tags": [
+        "ว้าว",
+        "ตื่นเต้น"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f929.png"
+    },
+    {
+      "id": "yum",
+      "name": "อร่อย",
+      "file": "/stickers/yum.png",
+      "category": "อารมณ์",
+      "emoji": "😋",
+      "tags": [
+        "อร่อย",
+        "อาหาร"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f60b.png"
+    },
+    {
+      "id": "drool",
+      "name": "น้ำลายไหล",
+      "file": "/stickers/drool.png",
+      "category": "อารมณ์",
+      "emoji": "🤤",
+      "tags": [
+        "อร่อย",
+        "อยาก"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f924.png"
+    },
+    {
+      "id": "sleeping",
+      "name": "หลับ zZ",
+      "file": "/stickers/sleeping.png",
+      "category": "อารมณ์",
+      "emoji": "😴",
+      "tags": [
+        "ง่วง",
+        "เบื่อ"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f634.png"
+    },
+    {
+      "id": "peek",
+      "name": "แอบมอง",
+      "file": "/stickers/peek.png",
+      "category": "อารมณ์",
+      "emoji": "🫣",
+      "tags": [
+        "แอบ",
+        "เขิน"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1fae3.png"
+    },
+    {
+      "id": "melting",
+      "name": "ละลาย",
+      "file": "/stickers/melting.png",
+      "category": "อารมณ์",
+      "emoji": "🫠",
+      "tags": [
+        "ร้อน",
+        "เขิน",
+        "แป้ก"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1fae0.png"
+    },
+    {
+      "id": "skull",
+      "name": "ตายแล้ว (ขำตาย)",
+      "file": "/stickers/skull.png",
+      "category": "อารมณ์",
+      "emoji": "💀",
+      "tags": [
+        "ขำ",
+        "ตาย",
+        "แป้ก"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f480.png"
+    },
+    {
+      "id": "eyes",
+      "name": "ตาจ้อง 👀",
+      "file": "/stickers/eyes.png",
+      "category": "ท่าทาง",
+      "emoji": "👀",
+      "tags": [
+        "มอง",
+        "สงสัย",
+        "แอบ"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f440.png"
+    },
+    {
+      "id": "thumbs_up",
+      "name": "ยกนิ้ว",
+      "file": "/stickers/thumbs_up.png",
+      "category": "ท่าทาง",
+      "emoji": "👍",
+      "tags": [
+        "ดี",
+        "เยี่ยม"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f44d.png"
+    },
+    {
+      "id": "clap",
+      "name": "ปรบมือ",
+      "file": "/stickers/clap.png",
+      "category": "ท่าทาง",
+      "emoji": "👏",
+      "tags": [
+        "เก่ง",
+        "ยินดี"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f44f.png"
+    },
+    {
+      "id": "pray",
+      "name": "ขอบคุณ/สาธุ",
+      "file": "/stickers/pray.png",
+      "category": "ท่าทาง",
+      "emoji": "🙏",
+      "tags": [
+        "ขอบคุณ",
+        "ขอร้อง"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f64f.png"
+    },
+    {
+      "id": "muscle",
+      "name": "สู้ๆ",
+      "file": "/stickers/muscle.png",
+      "category": "ท่าทาง",
+      "emoji": "💪",
+      "tags": [
+        "สู้",
+        "แข็งแรง"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f4aa.png"
+    },
+    {
+      "id": "fire",
+      "name": "ไฟลุก",
+      "file": "/stickers/fire.png",
+      "category": "สัญลักษณ์",
+      "emoji": "🔥",
+      "tags": [
+        "ปัง",
+        "เผ็ด",
+        "ร้อน"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f525.png"
+    },
+    {
+      "id": "hundred",
+      "name": "100 คะแนน",
+      "file": "/stickers/hundred.png",
+      "category": "สัญลักษณ์",
+      "emoji": "💯",
+      "tags": [
+        "เต็มร้อย",
+        "ดี"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f4af.png"
+    },
+    {
+      "id": "heart",
+      "name": "หัวใจ",
+      "file": "/stickers/heart.png",
+      "category": "สัญลักษณ์",
+      "emoji": "❤",
+      "tags": [
+        "รัก"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u2764.png"
+    },
+    {
+      "id": "broken_heart",
+      "name": "อกหัก",
+      "file": "/stickers/broken_heart.png",
+      "category": "สัญลักษณ์",
+      "emoji": "💔",
+      "tags": [
+        "เศร้า",
+        "แป้ก"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f494.png"
+    },
+    {
+      "id": "sparkles",
+      "name": "วิ้งๆ",
+      "file": "/stickers/sparkles.png",
+      "category": "สัญลักษณ์",
+      "emoji": "✨",
+      "tags": [
+        "สวย",
+        "ใหม่"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u2728.png"
+    },
+    {
+      "id": "party",
+      "name": "ปาร์ตี้",
+      "file": "/stickers/party.png",
+      "category": "สัญลักษณ์",
+      "emoji": "🎉",
+      "tags": [
+        "ฉลอง",
+        "ยินดี"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f389.png"
+    },
+    {
+      "id": "star",
+      "name": "ดาว",
+      "file": "/stickers/star.png",
+      "category": "สัญลักษณ์",
+      "emoji": "⭐",
+      "tags": [
+        "เด่น",
+        "ดี"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u2b50.png"
+    },
+    {
+      "id": "boom",
+      "name": "ปัง!",
+      "file": "/stickers/boom.png",
+      "category": "สัญลักษณ์",
+      "emoji": "💥",
+      "tags": [
+        "ระเบิด",
+        "ว้าว"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f4a5.png"
+    },
+    {
+      "id": "sweat_drops",
+      "name": "หยดเหงื่อ",
+      "file": "/stickers/sweat_drops.png",
+      "category": "สัญลักษณ์",
+      "emoji": "💦",
+      "tags": [
+        "เหนื่อย",
+        "แป้ก"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f4a6.png"
+    },
+    {
+      "id": "money_wings",
+      "name": "เงินบิน",
+      "file": "/stickers/money_wings.png",
+      "category": "สัญลักษณ์",
+      "emoji": "💸",
+      "tags": [
+        "แพง",
+        "จ่าย"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f4b8.png"
+    },
+    {
+      "id": "money_bag",
+      "name": "ถุงเงิน",
+      "file": "/stickers/money_bag.png",
+      "category": "สัญลักษณ์",
+      "emoji": "💰",
+      "tags": [
+        "เงิน",
+        "รวย"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f4b0.png"
+    },
+    {
+      "id": "question",
+      "name": "?",
+      "file": "/stickers/question.png",
+      "category": "สัญลักษณ์",
+      "emoji": "❓",
+      "tags": [
+        "สงสัย",
+        "งง"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u2753.png"
+    },
+    {
+      "id": "exclaim",
+      "name": "!",
+      "file": "/stickers/exclaim.png",
+      "category": "สัญลักษณ์",
+      "emoji": "❗",
+      "tags": [
+        "ตกใจ",
+        "เน้น"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u2757.png"
+    },
+    {
+      "id": "double_exclaim",
+      "name": "!!",
+      "file": "/stickers/double_exclaim.png",
+      "category": "สัญลักษณ์",
+      "emoji": "‼",
+      "tags": [
+        "ตกใจ",
+        "เน้น"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u203c.png"
+    },
+    {
+      "id": "interrobang",
+      "name": "!?",
+      "file": "/stickers/interrobang.png",
+      "category": "สัญลักษณ์",
+      "emoji": "⁉",
+      "tags": [
+        "ห๊ะ",
+        "งง",
+        "ตกใจ"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u2049.png"
+    },
+    {
+      "id": "pinched",
+      "name": "อิตาเลียนมือจีบ",
+      "file": "/stickers/pinched.png",
+      "category": "ท่าทาง",
+      "emoji": "🤌",
+      "tags": [
+        "อะไรเนี่ย",
+        "เป๊ะ"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f90c.png"
+    },
+    {
+      "id": "ramen",
+      "name": "ราเมง",
+      "file": "/stickers/ramen.png",
+      "category": "อาหาร/เที่ยว",
+      "emoji": "🍜",
+      "tags": [
+        "อาหาร",
+        "ญี่ปุ่น"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f35c.png"
+    },
+    {
+      "id": "sushi",
+      "name": "ซูชิ",
+      "file": "/stickers/sushi.png",
+      "category": "อาหาร/เที่ยว",
+      "emoji": "🍣",
+      "tags": [
+        "อาหาร",
+        "ญี่ปุ่น"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f363.png"
+    },
+    {
+      "id": "bento",
+      "name": "เบนโตะ",
+      "file": "/stickers/bento.png",
+      "category": "อาหาร/เที่ยว",
+      "emoji": "🍱",
+      "tags": [
+        "อาหาร",
+        "ญี่ปุ่น"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f371.png"
+    },
+    {
+      "id": "dango",
+      "name": "ดังโงะ",
+      "file": "/stickers/dango.png",
+      "category": "อาหาร/เที่ยว",
+      "emoji": "🍡",
+      "tags": [
+        "ขนม",
+        "ญี่ปุ่น"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f361.png"
+    },
+    {
+      "id": "onigiri",
+      "name": "โอนิกิริ",
+      "file": "/stickers/onigiri.png",
+      "category": "อาหาร/เที่ยว",
+      "emoji": "🍙",
+      "tags": [
+        "อาหาร",
+        "ญี่ปุ่น"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f359.png"
+    },
+    {
+      "id": "japan_map",
+      "name": "แผนที่ญี่ปุ่น",
+      "file": "/stickers/japan_map.png",
+      "category": "อาหาร/เที่ยว",
+      "emoji": "🗾",
+      "tags": [
+        "ญี่ปุ่น",
+        "เที่ยว"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f5fe.png"
+    },
+    {
+      "id": "fuji",
+      "name": "ภูเขาไฟฟูจิ",
+      "file": "/stickers/fuji.png",
+      "category": "อาหาร/เที่ยว",
+      "emoji": "🗻",
+      "tags": [
+        "ญี่ปุ่น",
+        "วิว"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f5fb.png"
+    },
+    {
+      "id": "shrine",
+      "name": "ศาลเจ้า",
+      "file": "/stickers/shrine.png",
+      "category": "อาหาร/เที่ยว",
+      "emoji": "⛩",
+      "tags": [
+        "ญี่ปุ่น",
+        "เที่ยว"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u26e9.png"
+    },
+    {
+      "id": "sakura",
+      "name": "ซากุระ",
+      "file": "/stickers/sakura.png",
+      "category": "อาหาร/เที่ยว",
+      "emoji": "🌸",
+      "tags": [
+        "ญี่ปุ่น",
+        "สวย"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f338.png"
+    },
+    {
+      "id": "plane",
+      "name": "เครื่องบิน",
+      "file": "/stickers/plane.png",
+      "category": "อาหาร/เที่ยว",
+      "emoji": "✈",
+      "tags": [
+        "เที่ยว",
+        "เดินทาง"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u2708.png"
+    },
+    {
+      "id": "camera_flash",
+      "name": "กล้องแฟลช",
+      "file": "/stickers/camera_flash.png",
+      "category": "อาหาร/เที่ยว",
+      "emoji": "📸",
+      "tags": [
+        "ถ่ายรูป"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f4f8.png"
+    },
+    {
+      "id": "shinkansen",
+      "name": "ชินคันเซ็น",
+      "file": "/stickers/shinkansen.png",
+      "category": "อาหาร/เที่ยว",
+      "emoji": "🚄",
+      "tags": [
+        "ญี่ปุ่น",
+        "เดินทาง"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f684.png"
+    },
+    {
+      "id": "shopping",
+      "name": "ถุงช้อปปิ้ง",
+      "file": "/stickers/shopping.png",
+      "category": "อาหาร/เที่ยว",
+      "emoji": "🛍",
+      "tags": [
+        "ช้อป"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f6cd.png"
+    },
+    {
+      "id": "money_face",
+      "name": "ตาเงิน",
+      "file": "/stickers/money_face.png",
+      "category": "อารมณ์",
+      "emoji": "🤑",
+      "tags": [
+        "เงิน",
+        "รวย"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f911.png"
+    },
+    {
+      "id": "see_no_evil",
+      "name": "ลิงปิดตา",
+      "file": "/stickers/see_no_evil.png",
+      "category": "ท่าทาง",
+      "emoji": "🙈",
+      "tags": [
+        "เขิน",
+        "ไม่อยากดู"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f648.png"
+    },
+    {
+      "id": "dog",
+      "name": "น้องหมา",
+      "file": "/stickers/dog.png",
+      "category": "ท่าทาง",
+      "emoji": "🐶",
+      "tags": [
+        "หมา",
+        "น่ารัก"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f436.png"
+    },
+    {
+      "id": "open_mouth",
+      "name": "อ้าปากค้าง",
+      "file": "/stickers/open_mouth.png",
+      "category": "อารมณ์",
+      "emoji": "😮",
+      "tags": [
+        "อึ้ง",
+        "ว้าว"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f62e.png"
+    },
+    {
+      "id": "zany",
+      "name": "เพี้ยน",
+      "file": "/stickers/zany.png",
+      "category": "อารมณ์",
+      "emoji": "🤪",
+      "tags": [
+        "บ้า",
+        "ตลก"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f92a.png"
+    },
+    {
+      "id": "party_face",
+      "name": "ฉลอง!",
+      "file": "/stickers/party_face.png",
+      "category": "อารมณ์",
+      "emoji": "🥳",
+      "tags": [
+        "ฉลอง",
+        "ยินดี"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f973.png"
+    },
+    {
+      "id": "zipper",
+      "name": "รูดซิปปาก",
+      "file": "/stickers/zipper.png",
+      "category": "อารมณ์",
+      "emoji": "🤐",
+      "tags": [
+        "เงียบ",
+        "ความลับ"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f910.png"
+    },
+    {
+      "id": "yawn",
+      "name": "หาว",
+      "file": "/stickers/yawn.png",
+      "category": "อารมณ์",
+      "emoji": "🥱",
+      "tags": [
+        "ง่วง",
+        "เบื่อ"
+      ],
+      "license": "Apache-2.0",
+      "author": "Google Noto Emoji",
+      "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f971.png"
+    }
+  ]
+}
