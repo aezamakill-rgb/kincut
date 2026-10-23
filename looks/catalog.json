@@ -9,385 +9,385 @@
       "id": "jp_airy",
       "name": "ญี่ปุ่นละมุน",
       "category": "ญี่ปุ่น",
-      "lutUrl": "/looks/jp_airy.png",
+      "lutUrl": "looks/jp_airy.png",
       "lutSize": 33
     },
     {
       "id": "jp_classic_chrome",
       "name": "คลาสสิกโครม",
       "category": "ญี่ปุ่น",
-      "lutUrl": "/looks/jp_classic_chrome.png",
+      "lutUrl": "looks/jp_classic_chrome.png",
       "lutSize": 33
     },
     {
       "id": "jp_classic_neg",
       "name": "คลาสสิกเนก",
       "category": "ญี่ปุ่น",
-      "lutUrl": "/looks/jp_classic_neg.png",
+      "lutUrl": "looks/jp_classic_neg.png",
       "lutSize": 33
     },
     {
       "id": "jp_astia",
       "name": "แอสเทียนุ่ม",
       "category": "ญี่ปุ่น",
-      "lutUrl": "/looks/jp_astia.png",
+      "lutUrl": "looks/jp_astia.png",
       "lutSize": 33
     },
     {
       "id": "jp_tokyo_night",
       "name": "โตเกียวราตรี",
       "category": "ญี่ปุ่น",
-      "lutUrl": "/looks/jp_tokyo_night.png",
+      "lutUrl": "looks/jp_tokyo_night.png",
       "lutSize": 33
     },
     {
       "id": "jp_sakura",
       "name": "ซากุระพาสเทล",
       "category": "ญี่ปุ่น",
-      "lutUrl": "/looks/jp_sakura.png",
+      "lutUrl": "looks/jp_sakura.png",
       "lutSize": 33
     },
     {
       "id": "jp_matcha",
       "name": "มัทฉะฟิล์ม",
       "category": "ญี่ปุ่น",
-      "lutUrl": "/looks/jp_matcha.png",
+      "lutUrl": "looks/jp_matcha.png",
       "lutSize": 33
     },
     {
       "id": "jp_anime_sky",
       "name": "ฟ้าอนิเมะ",
       "category": "ญี่ปุ่น",
-      "lutUrl": "/looks/jp_anime_sky.png",
+      "lutUrl": "looks/jp_anime_sky.png",
       "lutSize": 33
     },
     {
       "id": "land_vivid",
       "name": "วิวสดจัด",
       "category": "วิว",
-      "lutUrl": "/looks/land_vivid.png",
+      "lutUrl": "looks/land_vivid.png",
       "lutSize": 33
     },
     {
       "id": "land_golden",
       "name": "โกลเด้นอาวร์",
       "category": "วิว",
-      "lutUrl": "/looks/land_golden.png",
+      "lutUrl": "looks/land_golden.png",
       "lutSize": 33
     },
     {
       "id": "land_bluehour",
       "name": "บลูอาวร์",
       "category": "วิว",
-      "lutUrl": "/looks/land_bluehour.png",
+      "lutUrl": "looks/land_bluehour.png",
       "lutSize": 33
     },
     {
       "id": "land_misty",
       "name": "หมอกยามเช้า",
       "category": "วิว",
-      "lutUrl": "/looks/land_misty.png",
+      "lutUrl": "looks/land_misty.png",
       "lutSize": 33
     },
     {
       "id": "land_tropical",
       "name": "ทะเลใสฟ้าคราม",
       "category": "วิว",
-      "lutUrl": "/looks/land_tropical.png",
+      "lutUrl": "looks/land_tropical.png",
       "lutSize": 33
     },
     {
       "id": "pt_natural",
       "name": "ผิวธรรมชาติ",
       "category": "คน",
-      "lutUrl": "/looks/pt_natural.png",
+      "lutUrl": "looks/pt_natural.png",
       "lutSize": 33
     },
     {
       "id": "pt_golden_skin",
       "name": "ผิวแทนโกลว์",
       "category": "คน",
-      "lutUrl": "/looks/pt_golden_skin.png",
+      "lutUrl": "looks/pt_golden_skin.png",
       "lutSize": 33
     },
     {
       "id": "pt_korean_bright",
       "name": "เกาหลีสว่างใส",
       "category": "คน",
-      "lutUrl": "/looks/pt_korean_bright.png",
+      "lutUrl": "looks/pt_korean_bright.png",
       "lutSize": 33
     },
     {
       "id": "bt_glow",
       "name": "ผิวโกลว์ฉ่ำ",
       "category": "บิวตี้",
-      "lutUrl": "/looks/bt_glow.png",
+      "lutUrl": "looks/bt_glow.png",
       "lutSize": 33
     },
     {
       "id": "bt_pastel",
       "name": "พาสเทลพีช",
       "category": "บิวตี้",
-      "lutUrl": "/looks/bt_pastel.png",
+      "lutUrl": "looks/bt_pastel.png",
       "lutSize": 33
     },
     {
       "id": "bt_clean",
       "name": "ผิวใสเนียน",
       "category": "บิวตี้",
-      "lutUrl": "/looks/bt_clean.png",
+      "lutUrl": "looks/bt_clean.png",
       "lutSize": 33
     },
     {
       "id": "cr_crisp",
       "name": "คมชัดใส",
       "category": "คมชัด",
-      "lutUrl": "/looks/cr_crisp.png",
+      "lutUrl": "looks/cr_crisp.png",
       "lutSize": 33
     },
     {
       "id": "cr_dehaze",
       "name": "ไล่หมอกควัน",
       "category": "คมชัด",
-      "lutUrl": "/looks/cr_dehaze.png",
+      "lutUrl": "looks/cr_dehaze.png",
       "lutSize": 33
     },
     {
       "id": "cr_hdr",
       "name": "HDR ดีเทลจัด",
       "category": "คมชัด",
-      "lutUrl": "/looks/cr_hdr.png",
+      "lutUrl": "looks/cr_hdr.png",
       "lutSize": 33
     },
     {
       "id": "rt_70s",
       "name": "ซัมเมอร์ 70s",
       "category": "ย้อนยุค",
-      "lutUrl": "/looks/rt_70s.png",
+      "lutUrl": "looks/rt_70s.png",
       "lutSize": 33
     },
     {
       "id": "rt_80s",
       "name": "สีจัดยุค 80",
       "category": "ย้อนยุค",
-      "lutUrl": "/looks/rt_80s.png",
+      "lutUrl": "looks/rt_80s.png",
       "lutSize": 33
     },
     {
       "id": "rt_90s_date",
       "name": "ฟิล์ม90+วันที่",
       "category": "ย้อนยุค",
-      "lutUrl": "/looks/rt_90s_date.png",
+      "lutUrl": "looks/rt_90s_date.png",
       "lutSize": 33
     },
     {
       "id": "rt_disposable",
       "name": "กล้องทิ้งแฟลช",
       "category": "ย้อนยุค",
-      "lutUrl": "/looks/rt_disposable.png",
+      "lutUrl": "looks/rt_disposable.png",
       "lutSize": 33
     },
     {
       "id": "rt_digicam",
       "name": "ดิจิแคม Y2K",
       "category": "ย้อนยุค",
-      "lutUrl": "/looks/rt_digicam.png",
+      "lutUrl": "looks/rt_digicam.png",
       "lutSize": 33
     },
     {
       "id": "vt_faded",
       "name": "วินเทจซีดด้าน",
       "category": "วินเทจ",
-      "lutUrl": "/looks/vt_faded.png",
+      "lutUrl": "looks/vt_faded.png",
       "lutSize": 33
     },
     {
       "id": "vt_sepia",
       "name": "ซีเปียโบราณ",
       "category": "วินเทจ",
-      "lutUrl": "/looks/vt_sepia.png",
+      "lutUrl": "looks/vt_sepia.png",
       "lutSize": 33
     },
     {
       "id": "vt_xpro",
       "name": "ครอสโปรเซส",
       "category": "วินเทจ",
-      "lutUrl": "/looks/vt_xpro.png",
+      "lutUrl": "looks/vt_xpro.png",
       "lutSize": 33
     },
     {
       "id": "vt_polaroid",
       "name": "โพลารอยด์",
       "category": "วินเทจ",
-      "lutUrl": "/looks/vt_polaroid.png",
+      "lutUrl": "looks/vt_polaroid.png",
       "lutSize": 33
     },
     {
       "id": "vt_kodachrome",
       "name": "โคดาโครม",
       "category": "วินเทจ",
-      "lutUrl": "/looks/vt_kodachrome.png",
+      "lutUrl": "looks/vt_kodachrome.png",
       "lutSize": 33
     },
     {
       "id": "fm_portra400",
       "name": "พอร์ตร้า 400",
       "category": "ฟิล์ม",
-      "lutUrl": "/looks/fm_portra400.png",
+      "lutUrl": "looks/fm_portra400.png",
       "lutSize": 33
     },
     {
       "id": "fm_portra160",
       "name": "พอร์ตร้า 160",
       "category": "ฟิล์ม",
-      "lutUrl": "/looks/fm_portra160.png",
+      "lutUrl": "looks/fm_portra160.png",
       "lutSize": 33
     },
     {
       "id": "fm_ektar",
       "name": "เอคตาร์ 100",
       "category": "ฟิล์ม",
-      "lutUrl": "/looks/fm_ektar.png",
+      "lutUrl": "looks/fm_ektar.png",
       "lutSize": 33
     },
     {
       "id": "fm_gold200",
       "name": "โกลด์ 200",
       "category": "ฟิล์ม",
-      "lutUrl": "/looks/fm_gold200.png",
+      "lutUrl": "looks/fm_gold200.png",
       "lutSize": 33
     },
     {
       "id": "fm_cinestill800t",
       "name": "ซีนีสติล 800T",
       "category": "ฟิล์ม",
-      "lutUrl": "/looks/fm_cinestill800t.png",
+      "lutUrl": "looks/fm_cinestill800t.png",
       "lutSize": 33
     },
     {
       "id": "cn_teal_orange",
       "name": "ทีล&ออเรนจ์",
       "category": "ภาพยนตร์",
-      "lutUrl": "/looks/cn_teal_orange.png",
+      "lutUrl": "looks/cn_teal_orange.png",
       "lutSize": 33
     },
     {
       "id": "cn_bleach",
       "name": "บลีชบายพาส",
       "category": "ภาพยนตร์",
-      "lutUrl": "/looks/cn_bleach.png",
+      "lutUrl": "looks/cn_bleach.png",
       "lutSize": 33
     },
     {
       "id": "cn_moody",
       "name": "มูดดี้ดาร์ก",
       "category": "ภาพยนตร์",
-      "lutUrl": "/looks/cn_moody.png",
+      "lutUrl": "looks/cn_moody.png",
       "lutSize": 33
     },
     {
       "id": "cn_hk90s",
       "name": "หนังฮ่องกง 90",
       "category": "ภาพยนตร์",
-      "lutUrl": "/looks/cn_hk90s.png",
+      "lutUrl": "looks/cn_hk90s.png",
       "lutSize": 33
     },
     {
       "id": "fd_appetizing",
       "name": "อาหารน่ากิน",
       "category": "อาหาร/คาเฟ่",
-      "lutUrl": "/looks/fd_appetizing.png",
+      "lutUrl": "looks/fd_appetizing.png",
       "lutSize": 33
     },
     {
       "id": "fd_cafe_minimal",
       "name": "คาเฟ่มินิมอล",
       "category": "อาหาร/คาเฟ่",
-      "lutUrl": "/looks/fd_cafe_minimal.png",
+      "lutUrl": "looks/fd_cafe_minimal.png",
       "lutSize": 33
     },
     {
       "id": "fd_dark",
       "name": "ดาร์กฟู้ด",
       "category": "อาหาร/คาเฟ่",
-      "lutUrl": "/looks/fd_dark.png",
+      "lutUrl": "looks/fd_dark.png",
       "lutSize": 33
     },
     {
       "id": "pd_true",
       "name": "สินค้าสีตรง",
       "category": "สินค้า",
-      "lutUrl": "/looks/pd_true.png",
+      "lutUrl": "looks/pd_true.png",
       "lutSize": 33
     },
     {
       "id": "pd_white_bg",
       "name": "พื้นขาวสว่าง",
       "category": "สินค้า",
-      "lutUrl": "/looks/pd_white_bg.png",
+      "lutUrl": "looks/pd_white_bg.png",
       "lutSize": 33
     },
     {
       "id": "pd_luxury",
       "name": "สินค้าหรู",
       "category": "สินค้า",
-      "lutUrl": "/looks/pd_luxury.png",
+      "lutUrl": "looks/pd_luxury.png",
       "lutSize": 33
     },
     {
       "id": "bw_classic",
       "name": "ขาวดำคลาสสิก",
       "category": "ขาวดำ",
-      "lutUrl": "/looks/bw_classic.png",
+      "lutUrl": "looks/bw_classic.png",
       "lutSize": 33
     },
     {
       "id": "bw_noir",
       "name": "ขาวดำเข้มจัด",
       "category": "ขาวดำ",
-      "lutUrl": "/looks/bw_noir.png",
+      "lutUrl": "looks/bw_noir.png",
       "lutSize": 33
     },
     {
       "id": "bw_soft",
       "name": "ขาวดำนุ่มอุ่น",
       "category": "ขาวดำ",
-      "lutUrl": "/looks/bw_soft.png",
+      "lutUrl": "looks/bw_soft.png",
       "lutSize": 33
     },
     {
       "id": "tr_minimal",
       "name": "มินิมอลสะอาด",
       "category": "โทนฮิต",
-      "lutUrl": "/looks/tr_minimal.png",
+      "lutUrl": "looks/tr_minimal.png",
       "lutSize": 33
     },
     {
       "id": "tr_earth",
       "name": "เอิร์ธโทน",
       "category": "โทนฮิต",
-      "lutUrl": "/looks/tr_earth.png",
+      "lutUrl": "looks/tr_earth.png",
       "lutSize": 33
     },
     {
       "id": "tr_warm",
       "name": "โทนอบอุ่น",
       "category": "โทนฮิต",
-      "lutUrl": "/looks/tr_warm.png",
+      "lutUrl": "looks/tr_warm.png",
       "lutSize": 33
     },
     {
       "id": "tr_cool_fresh",
       "name": "ฟ้าเย็นสดใส",
       "category": "โทนฮิต",
-      "lutUrl": "/looks/tr_cool_fresh.png",
+      "lutUrl": "looks/tr_cool_fresh.png",
       "lutSize": 33
     },
     {
       "id": "tr_pop",
       "name": "สดใสป๊อป",
       "category": "โทนฮิต",
-      "lutUrl": "/looks/tr_pop.png",
+      "lutUrl": "looks/tr_pop.png",
       "lutSize": 33
     }
   ]

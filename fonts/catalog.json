@@ -18,30 +18,30 @@
       "files": [
         {
           "weight": 400,
-          "file": "/fonts/Kanit-Regular.ttf"
+          "file": "fonts/Kanit-Regular.ttf"
         },
         {
           "weight": 500,
-          "file": "/fonts/Kanit-Medium.ttf"
+          "file": "fonts/Kanit-Medium.ttf"
         },
         {
           "weight": 600,
-          "file": "/fonts/Kanit-SemiBold.ttf"
+          "file": "fonts/Kanit-SemiBold.ttf"
         },
         {
           "weight": 700,
-          "file": "/fonts/Kanit-Bold.ttf"
+          "file": "fonts/Kanit-Bold.ttf"
         },
         {
           "weight": 800,
-          "file": "/fonts/Kanit-ExtraBold.ttf"
+          "file": "fonts/Kanit-ExtraBold.ttf"
         },
         {
           "weight": 900,
-          "file": "/fonts/Kanit-Black.ttf"
+          "file": "fonts/Kanit-Black.ttf"
         }
       ],
-      "license": "/fonts/licenses/Kanit-OFL.txt"
+      "license": "fonts/licenses/Kanit-OFL.txt"
     },
     {
       "family": "Prompt",
@@ -57,18 +57,18 @@
       "files": [
         {
           "weight": 400,
-          "file": "/fonts/Prompt-Regular.ttf"
+          "file": "fonts/Prompt-Regular.ttf"
         },
         {
           "weight": 700,
-          "file": "/fonts/Prompt-Bold.ttf"
+          "file": "fonts/Prompt-Bold.ttf"
         },
         {
           "weight": 900,
-          "file": "/fonts/Prompt-Black.ttf"
+          "file": "fonts/Prompt-Black.ttf"
         }
       ],
-      "license": "/fonts/licenses/Prompt-OFL.txt"
+      "license": "fonts/licenses/Prompt-OFL.txt"
     },
     {
       "family": "Mitr",
@@ -83,14 +83,14 @@
       "files": [
         {
           "weight": 400,
-          "file": "/fonts/Mitr-Regular.ttf"
+          "file": "fonts/Mitr-Regular.ttf"
         },
         {
           "weight": 700,
-          "file": "/fonts/Mitr-Bold.ttf"
+          "file": "fonts/Mitr-Bold.ttf"
         }
       ],
-      "license": "/fonts/licenses/Mitr-OFL.txt"
+      "license": "fonts/licenses/Mitr-OFL.txt"
     },
     {
       "family": "Anuphan",
@@ -105,10 +105,10 @@
       "files": [
         {
           "weight": "100 700",
-          "file": "/fonts/Anuphan-VF.ttf"
+          "file": "fonts/Anuphan-VF.ttf"
         }
       ],
-      "license": "/fonts/licenses/Anuphan-OFL.txt"
+      "license": "fonts/licenses/Anuphan-OFL.txt"
     },
     {
       "family": "IBM Plex Sans Thai",
@@ -123,14 +123,14 @@
       "files": [
         {
           "weight": 400,
-          "file": "/fonts/IBMPlexSansThai-Regular.ttf"
+          "file": "fonts/IBMPlexSansThai-Regular.ttf"
         },
         {
           "weight": 700,
-          "file": "/fonts/IBMPlexSansThai-Bold.ttf"
+          "file": "fonts/IBMPlexSansThai-Bold.ttf"
         }
       ],
-      "license": "/fonts/licenses/IBMPlexSansThai-OFL.txt"
+      "license": "fonts/licenses/IBMPlexSansThai-OFL.txt"
     },
     {
       "family": "Itim",
@@ -144,10 +144,10 @@
       "files": [
         {
           "weight": 400,
-          "file": "/fonts/Itim-Regular.ttf"
+          "file": "fonts/Itim-Regular.ttf"
         }
       ],
-      "license": "/fonts/licenses/Itim-OFL.txt"
+      "license": "fonts/licenses/Itim-OFL.txt"
     },
     {
       "family": "Chonburi",
@@ -161,10 +161,10 @@
       "files": [
         {
           "weight": 400,
-          "file": "/fonts/Chonburi-Regular.ttf"
+          "file": "fonts/Chonburi-Regular.ttf"
         }
       ],
-      "license": "/fonts/licenses/Chonburi-OFL.txt"
+      "license": "fonts/licenses/Chonburi-OFL.txt"
     }
   ]
 }
