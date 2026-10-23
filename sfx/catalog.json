@@ -1,0 +1,245 @@
+{
+  "version": 1,
+  "sfx": [
+    {
+      "id": "whoosh",
+      "name": "ฟิ้ว! (ปัดเปลี่ยนฉาก)",
+      "category": "เปลี่ยนฉาก",
+      "url": "sfx/whoosh.wav",
+      "duration": 0.55,
+      "license": "CC0-1.0",
+      "author": "AutoCreative",
+      "source": "synthesized locally with ffmpeg (AutoCreative)"
+    },
+    {
+      "id": "pop",
+      "name": "ป๊อป! (เด้งขึ้น)",
+      "category": "จังหวะ/ป๊อป",
+      "url": "sfx/pop.wav",
+      "duration": 0.132,
+      "license": "CC0-1.0",
+      "author": "Kenney (kenney.nl)",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "ding",
+      "name": "ติ๊ง! (ปิ๊งไอเดีย)",
+      "category": "จังหวะ/ป๊อป",
+      "url": "sfx/ding.wav",
+      "duration": 0.29,
+      "license": "CC0-1.0",
+      "author": "Kenney (kenney.nl)",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "punch",
+      "name": "ตุ้บ! (ซูมกระแทก)",
+      "category": "กระแทก/เน้น",
+      "url": "sfx/punch.wav",
+      "duration": 0.649,
+      "license": "CC0-1.0",
+      "author": "Kenney (kenney.nl)",
+      "source": "https://kenney.nl/assets/impact-sounds"
+    },
+    {
+      "id": "glass",
+      "name": "ปิ๊ง! (แก้วใสวิ้ง)",
+      "category": "จังหวะ/ป๊อป",
+      "url": "sfx/glass.wav",
+      "duration": 0.276,
+      "license": "CC0-1.0",
+      "author": "Kenney (kenney.nl)",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "shutter",
+      "name": "แชะ! (ชัตเตอร์)",
+      "category": "เปลี่ยนฉาก",
+      "url": "sfx/shutter.wav",
+      "duration": 0.3,
+      "license": "CC0-1.0",
+      "author": "AutoCreative",
+      "source": "synthesized locally with ffmpeg (AutoCreative)"
+    },
+    {
+      "id": "boing",
+      "name": "ดึ๋ง! (สปริงเด้ง)",
+      "category": "ตลก/มีม",
+      "url": "sfx/boing.wav",
+      "duration": 0.9,
+      "license": "CC0-1.0",
+      "author": "AutoCreative",
+      "source": "synthesized locally with ffmpeg (AutoCreative)"
+    },
+    {
+      "id": "record_scratch",
+      "name": "แผ่นเสียงครูด (เดี๋ยวนะ!)",
+      "category": "ตลก/มีม",
+      "url": "sfx/record_scratch.wav",
+      "duration": 0.6,
+      "license": "CC0-1.0",
+      "author": "AutoCreative",
+      "source": "synthesized locally with ffmpeg (AutoCreative)"
+    },
+    {
+      "id": "badumtss",
+      "name": "บะดุ้มชึ่ง (ตบมุก)",
+      "category": "ตลก/มีม",
+      "url": "sfx/badumtss.wav",
+      "duration": 1.6,
+      "license": "CC0-1.0",
+      "author": "AutoCreative",
+      "source": "synthesized locally with ffmpeg (AutoCreative)"
+    },
+    {
+      "id": "tada",
+      "name": "ทาด๊า! (เปิดตัว)",
+      "category": "เปิดตัว/ว้าว",
+      "url": "sfx/tada.wav",
+      "duration": 1.5,
+      "license": "CC0-1.0",
+      "author": "AutoCreative",
+      "source": "synthesized locally with ffmpeg (AutoCreative)"
+    },
+    {
+      "id": "boom",
+      "name": "ตูม! (ระเบิดว้าว)",
+      "category": "กระแทก/เน้น",
+      "url": "sfx/boom.wav",
+      "duration": 0.777,
+      "license": "CC0-1.0",
+      "author": "Kenney (kenney.nl)",
+      "source": "https://kenney.nl/assets/sci-fi-sounds"
+    },
+    {
+      "id": "bass_drop",
+      "name": "ตึ้ม… (เบสดรอป)",
+      "category": "กระแทก/เน้น",
+      "url": "sfx/bass_drop.wav",
+      "duration": 1.8,
+      "license": "CC0-1.0",
+      "author": "AutoCreative",
+      "source": "synthesized locally with ffmpeg (AutoCreative)"
+    },
+    {
+      "id": "chime",
+      "name": "ติ๊งงง (กระดิ่งใส)",
+      "category": "เปิดตัว/ว้าว",
+      "url": "sfx/chime.wav",
+      "duration": 1.6,
+      "license": "CC0-1.0",
+      "author": "AutoCreative",
+      "source": "synthesized locally with ffmpeg (AutoCreative)"
+    },
+    {
+      "id": "coins",
+      "name": "กรุ๊งกริ๊ง (เงิน/ราคา)",
+      "category": "จังหวะ/ป๊อป",
+      "url": "sfx/coins.wav",
+      "duration": 0.846,
+      "license": "CC0-1.0",
+      "author": "Kenney (kenney.nl)",
+      "source": "https://kenney.nl/assets/rpg-audio"
+    },
+    {
+      "id": "buzzer",
+      "name": "ปี๊ดด! (ผิด/พลาด)",
+      "category": "ตลก/มีม",
+      "url": "sfx/buzzer.wav",
+      "duration": 0.7,
+      "license": "CC0-1.0",
+      "author": "AutoCreative",
+      "source": "synthesized locally with ffmpeg (AutoCreative)"
+    },
+    {
+      "id": "correct",
+      "name": "ติ๊งต่อง! (ถูกต้อง)",
+      "category": "เปิดตัว/ว้าว",
+      "url": "sfx/correct.wav",
+      "duration": 0.9,
+      "license": "CC0-1.0",
+      "author": "AutoCreative",
+      "source": "synthesized locally with ffmpeg (AutoCreative)"
+    },
+    {
+      "id": "question",
+      "name": "หืม? (สงสัย/งง)",
+      "category": "ตลก/มีม",
+      "url": "sfx/question.wav",
+      "duration": 0.491,
+      "license": "CC0-1.0",
+      "author": "Kenney (kenney.nl)",
+      "source": "https://kenney.nl/assets/interface-sounds"
+    },
+    {
+      "id": "slide_up",
+      "name": "วู้ปขึ้น (สไลด์ขึ้น)",
+      "category": "เปลี่ยนฉาก",
+      "url": "sfx/slide_up.wav",
+      "duration": 0.7,
+      "license": "CC0-1.0",
+      "author": "AutoCreative",
+      "source": "synthesized locally with ffmpeg (AutoCreative)"
+    },
+    {
+      "id": "slide_down",
+      "name": "วี้วตก (แป้ก/เฟล)",
+      "category": "ตลก/มีม",
+      "url": "sfx/slide_down.wav",
+      "duration": 0.9,
+      "license": "CC0-1.0",
+      "author": "AutoCreative",
+      "source": "synthesized locally with ffmpeg (AutoCreative)"
+    },
+    {
+      "id": "crickets",
+      "name": "จิ้งหรีด… (เงียบกริบ)",
+      "category": "ตลก/มีม",
+      "url": "sfx/crickets.wav",
+      "duration": 2.4,
+      "license": "CC0-1.0",
+      "author": "AutoCreative",
+      "source": "synthesized locally with ffmpeg (AutoCreative)"
+    },
+    {
+      "id": "heartbeat",
+      "name": "ตึกตัก (หัวใจเต้นลุ้น)",
+      "category": "ดราม่า/ลุ้น",
+      "url": "sfx/heartbeat.wav",
+      "duration": 1.4,
+      "license": "CC0-1.0",
+      "author": "AutoCreative",
+      "source": "synthesized locally with ffmpeg (AutoCreative)"
+    },
+    {
+      "id": "riser",
+      "name": "ซู่วขึ้น (บิลด์อัปลุ้น)",
+      "category": "ดราม่า/ลุ้น",
+      "url": "sfx/riser.wav",
+      "duration": 1.3,
+      "license": "CC0-1.0",
+      "author": "AutoCreative",
+      "source": "synthesized locally with ffmpeg (AutoCreative)"
+    },
+    {
+      "id": "click",
+      "name": "คลิก (กดปุ่ม)",
+      "category": "จังหวะ/ป๊อป",
+      "url": "sfx/click.wav",
+      "duration": 0.091,
+      "license": "CC0-1.0",
+      "author": "Kenney (kenney.nl)",
+      "source": "https://kenney.nl/assets/ui-audio"
+    },
+    {
+      "id": "powerup",
+      "name": "พลังเพิ่ม! (เลเวลอัป)",
+      "category": "เปิดตัว/ว้าว",
+      "url": "sfx/powerup.wav",
+      "duration": 1.202,
+      "license": "CC0-1.0",
+      "author": "Kenney (kenney.nl)",
+      "source": "https://kenney.nl/assets/digital-audio"
+    }
+  ]
+}
